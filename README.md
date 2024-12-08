@@ -1,6 +1,7 @@
 # Manipal_LLM
  Intelligent Database Query System with LLM and Streamlit
 
+![WhatsApp Image 2024-12-01 at 19 36 18 (1)](https://github.com/user-attachments/assets/79739b6b-d653-4f55-bab5-6e7fc85b67ff)
 
 # AI-Powered Offline Database Query System
 
